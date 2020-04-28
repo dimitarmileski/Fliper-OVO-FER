@@ -9,6 +9,7 @@ TagManager:
   - CubePoint
   - CapsulePoint
   - GameOverPlate
+  - Bound
   layers:
   - Default
   - TransparentFX

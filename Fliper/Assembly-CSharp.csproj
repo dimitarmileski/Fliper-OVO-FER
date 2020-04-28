@@ -90,6 +90,15 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>D:/UnityProjects/Fliper-OVO-FER/Fliper/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder">
+      <HintPath>D:/UnityProjects/Fliper-OVO-FER/Fliper/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.Editor">
+      <HintPath>D:/UnityProjects/Fliper-OVO-FER/Fliper/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+      <HintPath>D:/UnityProjects/Fliper-OVO-FER/Fliper/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/UnityProjects/Fliper-OVO-FER/Fliper/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -104,6 +113,9 @@
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>D:/UnityProjects/Fliper-OVO-FER/Fliper/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+      <HintPath>D:/UnityProjects/Fliper-OVO-FER/Fliper/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>D:/UnityProjects/Fliper-OVO-FER/Fliper/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
