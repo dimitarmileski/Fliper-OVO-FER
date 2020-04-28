@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ball
+  - CylinderPoint
+  - CubePoint
+  - CapsulePoint
+  - GameOverPlate
   layers:
   - Default
   - TransparentFX
